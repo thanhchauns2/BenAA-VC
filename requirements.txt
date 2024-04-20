@@ -1,0 +1,37 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+markdown>=2.6.8
+protobuf
+tensorboard-data-server
+werkzeug>=1.0.1
+wrapt<1.15,>=1.11.0
+flatbuffers>=23.5.26
+termcolor>=1.1.0
+h5py>=2.9.0
+libclang>=13.0.0
+pydub==0.24.1
+librosa
+numpy>=1.14
+inflect==0.2.5
+Unidecode==1.0.22
+Flask==2.1.0
+Flask-SocketIO==5.0.1
+matplotlib
+soundfile==0.10.3.post1
+omegaconf==2.0.6
+numba
+webrtcvad==2.0.10
+requests
+torch==2.2.2+cu118
+torchvision==0.17.2+cu118
+torchaudio==2.2.2+cu118
+tensorboard==2.10.0
+setuptools<=65.6.3
+# git+https://github.com/mozilla/DeepSpeech.git
+# deepspeech
+llvmlite
+pysrt==1.1.2
+nltk==3.6.2
+pytimeparse==1.1.8
+itsdangerous==2.0.1
+werkzeug==2.0.3
+joblib
